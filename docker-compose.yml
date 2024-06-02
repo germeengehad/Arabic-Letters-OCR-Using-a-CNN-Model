@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  api:
+    image: docker.infogerance.d-fi.fr/${APP_NAME_BACKEND}:${APP_VERSION}
+    ports:
+      - ${BACKEND_PORT:-8080}:8080
+    env_file:
+      - .env

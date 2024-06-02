@@ -1,0 +1,13 @@
+fastapi==0.110.0
+keras==2.15.0
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.1
+Pillow==10.2.0
+pydantic==1.10.2
+python-dotenv==1.0.1
+seaborn==0.13.2
+tensorflow==2.15.0
+tensorflow_intel
+uvicorn
+python-multipart
