@@ -49,5 +49,5 @@ This code sets up a Convolutional Neural Network (CNN) model to classify 29 Arab
   -    ![Image](https://github.com/germeengehad/Arabic-Letters-OCR-Using-a-CNN-Model/blob/main/download%20(3).png)    
 
 # Create FastAPI Application and Docker for the Project
--Read the README file in the repository above for detailed information on the Dockerization process.
+- Read the README file in the repository above for detailed information on the Dockerization process.
 
