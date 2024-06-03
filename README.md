@@ -46,6 +46,6 @@ This code sets up a Convolutional Neural Network (CNN) model to classify 29 Arab
 
   # Model Perfomance
   -    ![Image](https://github.com/germeengehad/Arabic-Letters-OCR-Using-a-CNN-Model/blob/main/download%20(4).png)
-  -    ![Image]()    
+  -    ![Image](https://github.com/germeengehad/Arabic-Letters-OCR-Using-a-CNN-Model/blob/main/download%20(4).png)    
 
 
