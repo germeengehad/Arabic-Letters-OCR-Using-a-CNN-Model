@@ -35,6 +35,7 @@ This code sets up a Convolutional Neural Network (CNN) model to classify 29 Arab
   - Max Pooling 2: 2x2 pooling.
   - Conv Layer 3: 64 filters, 3x3 size, ReLU activation.
   - Flatten Layer: Converts 2D feature maps to 1D vector.
+
   - Dense Layer 1: 64 neurons, ReLU activation.
   - Output Layer: 29 neurons (one per Arabic letter), softmax activation.
 - Compile the Model:
@@ -44,7 +45,7 @@ This code sets up a Convolutional Neural Network (CNN) model to classify 29 Arab
 - Summary: Displays the model's architecture and parameters.
 
   # Model Perfomance
-  -    ![Image]()
+  -    ![Image](https://github.com/germeengehad/Arabic-Letters-OCR-Using-a-CNN-Model/blob/main/download%20(4).png)
   -    ![Image]()    
 
 
