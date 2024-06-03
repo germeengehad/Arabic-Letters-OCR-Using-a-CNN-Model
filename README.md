@@ -24,7 +24,7 @@ This Dataset Consist of Images of Arabic letters and numbers , but we will work 
 - Brightness Adjustment: Adjusts brightness to 40%-60% of the original.
 - Validation Split: Reserves 30% of images for validation.
 
-  # Build Model
+# Build Model
 This code sets up a Convolutional Neural Network (CNN) model to classify 29 Arabic letters. Here's a brief description:
 - Set Random Seed: Ensures reproducibility by setting seeds for TensorFlow and NumPy.
 - Model Architecture:
@@ -42,5 +42,9 @@ This code sets up a Convolutional Neural Network (CNN) model to classify 29 Arab
   - Loss Function: Sparse categorical cross-entropy.
   - Metrics: Accuracy.
 - Summary: Displays the model's architecture and parameters.
+
+  # Model Perfomance
+  -    ![Image]()
+  -    ![Image]()    
 
 
